@@ -1,0 +1,1 @@
+http-server "C:\Users\Administrator\Desktop\KickAssProjects\c64js\src" -o
